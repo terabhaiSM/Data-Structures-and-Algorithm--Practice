@@ -1,10 +1,4 @@
-<h2>Introduction To Linked List</h2>
-<h3>Easy</h3>
-<p>40/40</p>
-<p>Average time to solve is 10 minutes</p>
-<p>Contributed by: 76 upvotes</p>
-
-<h3>Problem Statement</h3>
+<h2>Problem Statement</h3>
 <p>You are given an array ‘Arr’ of size ‘N’ consisting of positive integers.</p>
 
 <p>Make a linked list from the array and return the head of the linked list.</p>
