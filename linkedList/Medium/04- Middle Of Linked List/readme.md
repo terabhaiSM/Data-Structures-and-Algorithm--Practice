@@ -11,7 +11,7 @@
 <pre><code>3 4 5
 </code></pre>
 <p><strong>Explanation Of Sample Input 1:</strong></p>
-![Alt text](image.png)
+<img src="image.png" alt="Image">
 <p>We can clearly see that there are 5 elements in the linked list, therefore the middle node is the node with value '3'.</p>
 
 <p><strong>Sample Input 2:</strong></p>
@@ -22,7 +22,7 @@
 <pre><code>4 5 6
 </code></pre>
 <p><strong>Explanation Of Sample Input 2:</strong></p>
-![Alt text](image-1.png)
+<img src="image-1.png" alt="Image">
 <p>We can clearly see that there are 6 elements in the linked list and the middle nodes are nodes with values 3 and 4, hence we return a second middle node having value '4'.</p>
 
 <h2>Constraints:</h2>
